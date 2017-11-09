@@ -18,3 +18,5 @@ app.delete('/api/product/:id', products_controller.delete);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => { console.log(`Server listening on port ${port}.`); });
+
+(()=>luckynumber)()
